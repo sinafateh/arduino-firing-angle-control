@@ -77,6 +77,6 @@ Feel free to fork this repository, report issues, or submit pull requests to enh
 ---
 
 **Contact:**  
-For questions or collaboration, reach out via [LinkedIn](#) or email: example@example.com.  
+For questions or collaboration, reach out via email: sina.fateh1381@gmail.com.  
 
 ---
